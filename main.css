@@ -1232,7 +1232,7 @@ a[is=emby-linkbutton]:not(.listItem-border, .navMenuOption):hover:after {
     -webkit-mask-image: none
 }
 
-#loginPage:after {
+/* #loginPage:after {
     background: url('https://cdn.jsdelivr.net/gh/prayag17/JellySkin/svg/gradient.svg');
     background-size: cover;
     content: "";
@@ -1242,7 +1242,7 @@ a[is=emby-linkbutton]:not(.listItem-border, .navMenuOption):hover:after {
     top: 0;
     width: 100vw;
     z-index: 1
-}
+} */
 
 #loginPage>div {
     left: 50%;
